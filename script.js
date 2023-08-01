@@ -86,9 +86,6 @@ function faixaetaria(idade) {
 
     function calcular (event) {
         event.preventDefault()
-        
-    console.log ("Executada a função calcular.")
-        let usuario = faixaetaria()     
-        
+
 
     }
